@@ -1,4 +1,4 @@
- Expense Tracker
+🔗 Expense Tracker
 
 A Python-based desktop application to manage and analyze personal expenses with a clean and user-friendly GUI. Built using Tkinter for the interface, MySQL for database storage, and Matplotlib for expense visualization.
 
@@ -25,25 +25,6 @@ A Python-based desktop application to manage and analyze personal expenses with 
 
  . Matplotlib (Charts for visualization)
 
-
-
-1. Install Required Packages:
-
-pip install mysql-connector-python matplotlib
-
-
-2. Database Setup:
-
-CREATE DATABASE IF NOT EXISTS expense_tracker;
-USE expense_tracker;
-
-CREATE TABLE IF NOT EXISTS expenses (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    expense_name VARCHAR(100),
-    category VARCHAR(50),
-    amount DECIMAL(10,2),
-    expense_date DATE
-);
 
 
 

@@ -44,7 +44,7 @@ A Python-based desktop application to manage and analyze personal expenses with 
 
    USE expense_tracker;
 
-   CREATE TABLE IF NOT EXISTS expenses (
+   CREATE TABLE expenses (
         id INT AUTO_INCREMENT PRIMARY KEY,
         expense_name VARCHAR(100),
         category VARCHAR(50),

@@ -78,6 +78,12 @@ A Python-based desktop application to manage and analyze personal expenses with 
 <img width="1920" height="1080" alt="Screenshot 2025-08-28 194912" src="https://github.com/user-attachments/assets/8a6f567d-b138-45b5-a6d9-7b312a0cc768" />
 
 
+---
+
+4.Expense Summary by Category
+
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-28 192634" src="https://github.com/user-attachments/assets/a5502e3f-92e2-43b9-8457-cfef017009cb" />
 
 
 

@@ -26,6 +26,30 @@ A Python-based desktop application to manage and analyze personal expenses with 
  . Matplotlib (Charts for visualization)
 
 
+ ---
+
+
+ 1. Install Required Packages:
+
+ pip install mysql-connector-python matplotlib
+
+
+---
+
+2. Database Setup:
+
+CREATE DATABASE expense_tracker;
+USE expense_tracker;
+
+CREATE TABLE IF NOT EXISTS expenses (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    expense_name VARCHAR(100),
+    category VARCHAR(50),
+    amount DECIMAL(10,2),
+    expense_date DATE
+);
+
+
 
 
 

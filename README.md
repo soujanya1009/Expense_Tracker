@@ -39,6 +39,9 @@ A Python-based desktop application to manage and analyze personal expenses with 
 2. Database Setup:
 
    CREATE DATABASE expense_tracker;
+
+
+
    USE expense_tracker;
 
    CREATE TABLE IF NOT EXISTS expenses (

@@ -11,5 +11,5 @@ Features:
 
 Tech Stack:
 . Python (Core logic & GUI with Tkinter)
-. MySQL (Database for storing expenses)
-. Matplotlib (Charts for visualization)
+, MySQL (Database for storing expenses)
+, Matplotlib (Charts for visualization)
